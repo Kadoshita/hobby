@@ -12,6 +12,7 @@
 * 自分が生まれる前の町の様子とかを調べてます
 * 昔の航空写真とGoogleMapを比較したり、ストリートビューを見たりすることが多いです
 * 国土地理院の[地図・空中写真閲覧サービス](http://mapps.gsi.go.jp/maplibSearch.do#1)は素晴らしい
+* [テキサス大学の資料](https://legacy.lib.utexas.edu/maps/japan.html)とかも見ます
 
 ## ダム
 
